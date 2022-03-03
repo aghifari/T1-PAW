@@ -75,6 +75,8 @@ a:hover{
 
 /* matkul-page */
 .matkulTable {
+  border: 1px solid;
+  border-collapse: collapse;
   text-align: center;
 }
 
