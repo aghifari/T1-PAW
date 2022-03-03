@@ -1,0 +1,88 @@
+body {
+  margin: 0
+  }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 2px 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p, th, td {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #EEEDDE;
+  font-size: 0.8rem;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 15px 0 0;
+}
+
+table {
+  color: #141E27;
+  margin: 0 auto;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+/* div */
+#banner {
+  background-color: #203239;
+  color: #EEEDDE;
+  padding: 2% 2% 1%;
+}
+
+#menu {
+  background-color: #141E27;
+  color: #EEEDDE;
+  padding: 1% 0 1% 2%;
+}
+
+#content {
+  background-color: #EEEDDE;
+  padding: 3%;
+}
+
+#footer {
+  background-color: #E0DDAA;
+  text-align: center;
+}
+
+.nama {
+  margin-top: 5px;
+  font-weight: bolder;
+  letter-spacing: 10px;
+}
+
+.listMenu {
+  letter-spacing: 1.5px;
+}
+
+.myProfile {
+  font-size: 2rem;
+  letter-spacing: 2px;
+  padding-bottom: 10px;
+}
+
+.mypicture {
+  border: 1px solid #141E27;
+  border-radius: 15px;
+  height: 200px;
+}
+
+/* matkul-page */
+.matkulTable {
+  text-align: center;
+}
+
+.namaMK {
+  text-align: left;
+}
+
+.copyright {
+  margin: 0;
+  padding: 1% 0;
+}
