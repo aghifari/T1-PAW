@@ -28,6 +28,15 @@ a:hover{
   text-decoration: underline;
 }
 
+i {
+  color: #141E27;
+  margin: 10px;
+}
+
+i:hover{
+  color: #E0DDAA;
+}
+
 /* div */
 #banner {
   background-color: #203239;
@@ -43,7 +52,7 @@ a:hover{
 
 #content {
   background-color: #EEEDDE;
-  padding: 3%;
+  padding: 2%;
 }
 
 #footer {
@@ -87,4 +96,8 @@ a:hover{
 .copyright {
   margin: 0;
   padding: 1% 0;
+}
+
+.logo-socmed {
+  text-align: center;
 }
