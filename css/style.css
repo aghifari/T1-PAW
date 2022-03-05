@@ -100,4 +100,9 @@ i:hover{
 
 .logo-socmed {
   text-align: center;
+  
+ @media (max-width: 720px) {
+  body {
+    text-align: center;
+  }
 }
