@@ -30,7 +30,7 @@ a:hover{
 
 i {
   color: #141E27;
-  margin: 10px;
+  margin: 0 10px 0;
 }
 
 i:hover{
@@ -98,11 +98,11 @@ i:hover{
   padding: 1% 0;
 }
 
+.getTouch{
+  font-weight: bolder;
+  margin: 10px;
+}
+
 .logo-socmed {
   text-align: center;
-  
- @media (max-width: 720px) {
-  body {
-    text-align: center;
-  }
 }
